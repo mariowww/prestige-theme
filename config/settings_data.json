@@ -210,7 +210,7 @@
           "featured-collection-0"
         ],
         "settings": {
-          "title": "Featured collection",
+          "title": "ORA-HUB",
           "layout_mode": "grid",
           "show_product_info": true,
           "show_color_swatch": false,
@@ -483,35 +483,24 @@
           "apparition_delay": 5
         }
       },
-      "1533077274726": {
-        "type": "featured-collections",
-        "blocks": {
-          "1533077274726-0": {
-            "type": "collection",
-            "settings": {
-              "collection": "bracelets",
-              "title": "",
-              "grid_items_count": 8,
-              "button_text": "View all products"
-            }
-          }
-        },
-        "block_order": [
-          "1533077274726-0"
-        ],
+      "image_with_text_overlay_gPz7r6": {
+        "type": "image-with-text-overlay",
+        "name": "Image with text (overlay)",
         "settings": {
-          "title": "Featured collection",
-          "layout_mode": "grid",
-          "show_product_info": true,
-          "show_color_swatch": false,
-          "grid_mobile_items_per_row": "2",
-          "grid_desktop_items_per_row": 4
+          "section_size": "large",
+          "image": "shopify://shop_images/16_png.webp",
+          "text_color": "#ffffff",
+          "overlay_color": "#000000",
+          "overlay_opacity": 30,
+          "subheading": "ORA-HUB",
+          "title": "ΔΙΑΚΡΙΤΙΚΗ ΠΟΛΥΤΕΛΕΙΑ",
+          "content": "<p>Ρολόγια από εκλεκτά υλικά, σχεδιασμένα για εκείνους που αναγνωρίζουν την αξία.</p>"
         }
       }
     },
     "content_for_index": [
+      "image_with_text_overlay_gPz7r6",
       "featured-collections",
-      "1533077274726",
       "slideshow",
       "collection-list",
       "featured-product",
