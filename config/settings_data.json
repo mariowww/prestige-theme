@@ -199,7 +199,7 @@
           "featured-collection-0": {
             "type": "collection",
             "settings": {
-              "collection": "watches",
+              "collection": "collection1",
               "title": "",
               "grid_items_count": 4,
               "button_text": "View all products"
