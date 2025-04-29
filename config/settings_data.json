@@ -474,9 +474,9 @@
           "collection_RC8HGC": {
             "type": "collection",
             "settings": {
-              "collection": "",
-              "title": "",
-              "grid_items_count": 8,
+              "collection": "collection1",
+              "title": "ΡΟΛΟΓΙΑ",
+              "grid_items_count": 6,
               "button_text": "View all products"
             }
           }
@@ -486,7 +486,7 @@
         ],
         "name": "Featured collections",
         "settings": {
-          "title": "Featured collection",
+          "title": "ΤΑ",
           "layout_mode": "grid",
           "show_product_info": true,
           "show_color_swatch": false,
